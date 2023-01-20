@@ -1,4 +1,4 @@
-# TF_azurerm_firewall_module
+# Azurerm_firewall
 
 Deploy an Azure Firewall with a dedicated Terraform module.
 
